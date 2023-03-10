@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=kh199&style=flat-square&color=green" alt=""/>
 </div>
 
-### :e-mail:  Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kkaricheva)
+## :e-mail:  Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kkaricheva)
 
 
 ---
