@@ -41,7 +41,7 @@
 ### :bar_chart: My Stats :
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kh199&theme=ligth&background=fffff" width="600"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh199&layout=default&theme=ligth" width="250"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kh199&theme=ligth&background=fffff" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh199&layout=default&theme=ligth" width="165"/>
 </div>
 
