@@ -6,19 +6,9 @@
   </div>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100"/>
-</div>
-
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kh199&style=flat-square&color=green" alt=""/>
-</div>
-
 ## :e-mail:  Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kkaricheva)
 
 
----
 
 ### :hammer_and_wrench: My Tools :
 
@@ -41,7 +31,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="50" height="50"/>
 </div>
 
----
 ### :bar_chart: My Stats :
 
 <div align="center">
