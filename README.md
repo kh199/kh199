@@ -35,6 +35,5 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kh199&theme=ligth&background=fffff" width="570"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh199&layout=default&theme=ligth" width="237"/>
 </div>
 
